@@ -336,7 +336,6 @@ padding-bottom: 30px;
   line-height: 30px;
   font-size: 18px;
   font-style: normal;
-  color: white;
 }
 
 .footer__logo-social {
@@ -344,5 +343,5 @@ padding-bottom: 30px;
 }
 
 a:hover {
-  color: #2f80ed
+  color: #2f80ed;
 }

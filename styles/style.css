@@ -287,7 +287,7 @@
   justify-content: space-between;
 }
 
-.footer_content_copyright {
+.footer__column_content_copyright {
   display: flex;
   flex-basis: 711px;
   flex-direction: column;
@@ -312,7 +312,7 @@
   color: white;
 }
 
-.footer_content_info {
+.footer__column_content_info {
   text-align: initial;
 }
 

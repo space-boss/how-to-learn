@@ -9,45 +9,6 @@
   grid-template-columns: repeat(auto-fill, 240px);
   grid-gap: 60px 100px;
   max-width: 920px;
-  margin: 0 auto;
+  margin: 60px auto 0;
   padding: 0;
-}
-
-
-
-
-
-
-/*.cards {
-  list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  box-sizing: border-box;
-  margin: 0 auto;
-  min-width: 920px;
-}
-
-
-
-/*.cards {
-  list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
-  box-sizing: border-box;
-  margin: 0 auto;
-  width: 80%;
-  padding: 0;
-  min-width: 920px;
-}
-
-
-/*.cards {
-  list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
-  box-sizing: border-box;
-  margin: 0 auto;
-  width: 80%;
-  min-width: 920px;
 }

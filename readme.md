@@ -1,6 +1,6 @@
 # HOW TO LEARN. Student project for Yandex.Practicum
 
-## Description
+### Description
 
 One page layout of a simple landing about study methologies.
 
